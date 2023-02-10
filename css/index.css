@@ -1,0 +1,11 @@
+main h1 {
+    margin: 40px 54px 40px 0px;
+}
+main .card:hover {
+    outline: 3px solid #ffa94d;
+    cursor: pointer;
+}
+.albums a {
+    color: black;
+    text-decoration: none;
+}

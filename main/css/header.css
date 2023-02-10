@@ -1,0 +1,33 @@
+.logo-text {
+    font-size: 24px;
+}
+header .nav-link {
+    color: gray;
+    font-size: 16px;
+}
+header .nav-link:hover {
+    color: #fc363b ;
+    border-bottom:2px solid #fc363b;
+}
+header .nav-link:active {
+    text-decoration: none;
+    color: #ffa94d ;
+    border-bottom:2px solid #fc363b;
+}
+header .nav {
+    gap: 15px;
+}
+.input[type="search"] {
+    border: none;
+    font-size: 16px;
+    color: gray;
+}
+header span {
+    display: flex;
+    margin: 1.5%;
+    background: rgb(72,204,224);
+    background: linear-gradient(90deg, rgba(72,204,224,1) 0%, rgba(81,90,208,1) 35%, rgba(196,74,179,1) 70%, rgba(251,179,43,1) 100%);
+    font-size: 15px;
+    height: 25px;
+    padding: 5px 10px;
+}
